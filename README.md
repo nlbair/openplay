@@ -104,12 +104,6 @@ xG comes from a model created by Noah Bair. It is applied to every shot in the e
 - **Source stats.** Stats are counted from the events with documented definitions, so they can differ slightly from figures published elsewhere.
 - **Snapshot.** This is a snapshot, not a live feed. 2025/26 is complete; 2026/27 is not included.
 
-## Source and takedown
-
-The event data comes from public match pages on WhoScored.com, which show data from the Opta feed (Stats Perform). openplay isn't affiliated with or endorsed by WhoScored, Opta or Stats Perform.
-
-If you hold rights to this data and want something removed, email **noahlbair@gmail.com** and it will be handled promptly.
-
 ## License
 
 The data is licensed under [Creative Commons Attribution 4.0 (CC-BY 4.0)](LICENSE). You can reuse it if you credit "openplay (Noah Bair)". The Python and R packages are MIT-licensed in their own repositories.
