@@ -9,7 +9,7 @@ This repository holds the data release and its documentation. Two packages read 
 - Python: [openplay-py](https://github.com/nlbair/openplay-py)
 - R: [openplay-r](https://github.com/nlbair/openplay-r)
 
-> **Status: v0.1.0 preview.** Expect small changes to column names before v1.0.0 (planned for January 2027). Please report anything that looks wrong.
+> **Status: v0.1.0 preview.**
 
 ## Coverage
 
