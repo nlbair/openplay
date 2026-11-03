@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
+The openplay data (every file attached to the releases of this repository) is licensed under the
+Creative Commons Attribution 4.0 International License. Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt the data for any purpose, including commercially, as long as you give credit:
+
+    openplay (Noah Bair), https://github.com/nlbair/openplay
+
+The underlying match event data was collected from public match pages on WhoScored.com, which show data
+from the Opta feed (Stats Perform). openplay is not affiliated with or endorsed by them. Rights holders who
+want material removed can email noahlbair@gmail.com.
